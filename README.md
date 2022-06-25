@@ -8,3 +8,5 @@
 brokenchopstix/brokenchopstix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+update (June2022**)
+I'm more focused on studying JAVA progamming language
